@@ -1,0 +1,9 @@
+{
+  "service": "CATALYST",
+  "client": {
+    "id": "000.TI8OG3TWTVCY668643XI44BUR1BOPH",
+    "scope": "ZohoCRM.modules.ALL",
+    "accounts-url": "https://accounts.zoho.com"
+  },
+  "file_location": "/app/app_file.html"
+}
